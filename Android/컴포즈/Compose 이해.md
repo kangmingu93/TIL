@@ -1,6 +1,7 @@
 # Compose 이해   
 
-https://developer.android.com/jetpack/compose/mental-model?hl=ko
+https://developer.android.com/jetpack/compose/mental-model?hl=ko   
+https://blog.crazzero.com/184   
 
 
 * Jetpack Compose는 Android를 위한 현대적인 선언형 UI 도구 키트입니다. Compose는 프런트엔드 뷰를 명령형으로 변형하지 않고도 앱 UI를 렌더링할 수 있게 하는 선언형 API를 제공하여 앱 UI를 더 쉽게 작성하고 유지관리할 수 있도록 지원합니다. 이 용어에 관해 몇 가지 설명이 필요하며, 앱 디자인에 있어 중요한 함의를 갖습니다.
